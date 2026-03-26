@@ -74,14 +74,21 @@ Utilisation :
 ### WhatsApp
 
 
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+<a href="https://whatsapp.com/channel/0029Vb6HWG34yltVtiuEu43w" target="_blank">
+  <img src="https://img.shields.io/badge/Suivez%20nous%20sur%20whatsapp-Support%20Developer-FF813F?style=for-the-badge&logo=Suivez-nous-sur-whatsapp&logoColor=white" alt="Buy Me a Coffee">
 </a>
 
 </div>
 
 - Mon WhatsApp
 https://wa.me/50946516461?text=Bonjour%20monsieur%20𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
+
+##OU
+
+<a href=https://wa.me/50946516461?text=Bonjour%20monsieur%20𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
+"" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Developer%20Support-black?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+</a>
 
 - Mon IA WhatsApp
 https://wa.me/50946516461?text=Bonjour%20l'IA
@@ -140,13 +147,8 @@ L'auteur n'est pas responsable d'une mauvaise utilisation.*
 
 “Je suis passionné par l’intelligence artificielle et l’apprentissage automatique. Mon rêve est de créer X-COD3, un assistant vocal intellig>
 
-## Support
+## Si tu aimes ce projet ⭐ laisse une étoile sur GitHub by 𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
 
-<https://whatsapp.com/channel/0029Vb6HWG34yltVtiuEu43w>
-
-## Si tu aimes ce projet ⭐ laisse une étoile sur GitHub by
-```
-                𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
-  ♡   ㅤ⎙ㅤ     ⌲     🔕
+   ♡   ㅤ⎙ㅤ     ⌲     🔕
 ˡᶦᵏᵉ   ˢᵃᵛᵉ   ˢʰᵃʳᵉ   ᵘⁿᵐᵘᵗᵉ
      *ᶜʰᵃⁿⁿᵉˡ*
