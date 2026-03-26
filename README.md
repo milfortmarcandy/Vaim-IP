@@ -61,17 +61,24 @@
 
 Créer commande :
 
-```echo "alias préparation-3457='cd ~/QUEEN-AI && git pull origin main'" >> ~/.bashrc source ~/.bashrc
+```echo "alias préparation-3457='cd ~/QUEEN-AI && git pull origin main'" >> ~/.bashrc source ~/.bashrc```
 
 Utilisation :
 
-préparation-3457
+```préparation-3457```
 
 #
 
 ## Contacts et support
 
 ### WhatsApp
+
+
+<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+</a>
+
+</div>
 
 - Mon WhatsApp
 https://wa.me/50946516461?text=Bonjour%20monsieur%20𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
