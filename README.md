@@ -69,15 +69,15 @@ préparation-3457
 
 #
 
-## Contacts
+## Contacts et support
 
 ### WhatsApp
 
 - Mon WhatsApp
-https://wa.me/50934329984
+https://wa.me/50946516461?text=Bonjour%20monsieur%20𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
 
 - Mon IA WhatsApp
-https://wa.me/50946516461
+https://wa.me/50946516461?text=Bonjour%20l'IA
 
 #
 
@@ -126,17 +126,19 @@ QUEEN-AI/
     └── conversation_history.txt
 ```
 
-## Disclaimer
+#### Disclaimer
 
 Ce projet est uniquement pour usage éducatif.
 L'auteur n'est pas responsable d'une mauvaise utilisation.
 
-#
 “Je suis passionné par l’intelligence artificielle et l’apprentissage automatique. Mon rêve est de créer X-COD3, un assistant vocal intellig>
+
 ## Support
+
+<https://whatsapp.com/channel/0029Vb6HWG34yltVtiuEu43w>
 
 Si tu aimes ce projet ⭐ laisse une étoile sur GitHub by
                 𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
-  ♡ ㅤ⎙ㅤ   ⌲     🔕
-ˡᶦᵏᵉ ˢᵃᵛᵉ ˢʰᵃʳᵉ ᵘⁿᵐᵘᵗᵉ
+  ♡   ㅤ⎙ㅤ     ⌲     🔕
+ˡᶦᵏᵉ   ˢᵃᵛᵉ   ˢʰᵃʳᵉ   ᵘⁿᵐᵘᵗᵉ
      *ᶜʰᵃⁿⁿᵉˡ*
