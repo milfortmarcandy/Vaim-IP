@@ -85,8 +85,7 @@ https://wa.me/50946516461?text=Bonjour%20monsieur%20𝗛4𝗖𝗞𝗠𝗔𝗥�
 
 ##OU
 
-<a href=https://wa.me/50946516461?text=Bonjour%20monsieur%20𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
-"" target="_blank">
+<a href=https://wa.me/50946516461?text=Bonjour%20monsieur%20𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍"" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Developer%20Support-black?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
 </a>
 
