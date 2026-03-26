@@ -128,8 +128,8 @@ QUEEN-AI/
 
 #### Disclaimer
 
-Ce projet est uniquement pour usage éducatif.
-L'auteur n'est pas responsable d'une mauvaise utilisation.
+*Ce projet est uniquement pour usage éducatif.
+L'auteur n'est pas responsable d'une mauvaise utilisation.*
 
 “Je suis passionné par l’intelligence artificielle et l’apprentissage automatique. Mon rêve est de créer X-COD3, un assistant vocal intellig>
 
@@ -137,7 +137,8 @@ L'auteur n'est pas responsable d'une mauvaise utilisation.
 
 <https://whatsapp.com/channel/0029Vb6HWG34yltVtiuEu43w>
 
-Si tu aimes ce projet ⭐ laisse une étoile sur GitHub by
+## Si tu aimes ce projet ⭐ laisse une étoile sur GitHub by
+```
                 𝗛4𝗖𝗞𝗠𝗔𝗥𝗖₪𝗗𝗘𝗩🐍
   ♡   ㅤ⎙ㅤ     ⌲     🔕
 ˡᶦᵏᵉ   ˢᵃᵛᵉ   ˢʰᵃʳᵉ   ᵘⁿᵐᵘᵗᵉ
